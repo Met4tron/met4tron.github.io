@@ -8,6 +8,7 @@ language: "" # language to set into html tag, default is en
 
 author: Yuri Gomes
 author-title: Back-End Developer
+gravatar: a817099eb9f85cb6443f50ff27d5d2e9
 email: desenvolvedoryuri@gmail.com
 twitter: haddouken__
 github: Met4tron
@@ -16,7 +17,7 @@ facebook: manigold.yuuri
 linkedin: yuri-gomes-3b5971117
 bio: "Back-End Developer, graduando em Ciência da Computação e bom praticante de esportes nas horas vagas.
       Iniciei em 2016 os estudos sobre Desenvolvimento Web, porém já tinha conhecimentos em Desktop ( Java c/ Swing).
-      Atualmente estudando tecnologias baseadas em Javascript ( NodeJS, MongoDB e Angular 2).
+      Atualmente estudando tecnologias baseadas em Javascript (NodeJS, MongoDB e Angular 2).
       Bom entusiasta de novas tecnologias e disposto a trabalhar em equipes grandes ! "
 
 # Skills
