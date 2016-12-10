@@ -10,12 +10,12 @@ author: Yuri Gomes
 author-title: Back-End Developer
 gravatar: d36a082aacb53b6f76869748fb4b81d4
 email: desenvolvedoryuri@gmail.com
-twitter: wendell_adriel
+twitter: haddouken__
 github: Met4tron
 googleplus: +yuurig
 facebook: manigold.yuuri
 linkedin: yuri-gomes-3b5971117
-bio: ""
+bio: "Futuro Desenvolvedor Fullstack MEAN ! "
 
 # Skills
 #
@@ -40,12 +40,8 @@ front-end:
     level: 2
   - name: Angular
     level: 1
-  - name: Vue.js
-    level: 1
   - name: Bootstrap
     level: 2
-  - name: Materialize CSS
-    level: 1
   - name: LESS
     level: 1
   - name: SASS
@@ -87,20 +83,8 @@ db:
     level: 1
 
 devops:
-  - name: Docker
-    level: 1
-  - name: Vagrant
-    level: 1
-  - name: Jenkins
-    level: 1
   - name: Git
     level: 2
-  - name: Apache Maven
-    level: 1
-  - name: Continuous Integration
-    level: 1
-  - name: Continuous Delivery
-    level: 1
 others:
   - name: Web Services
     level: 2
