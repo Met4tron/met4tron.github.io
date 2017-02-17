@@ -36,15 +36,15 @@ front-end:
   - name: HTML 5
     level: 3
   - name: CSS 3
-    level: 2
+    level: 3
   - name: JavaScript
     level: 3
   - name: jQuery
     level: 2
-  - name: Angular
+  - name: Angular 2
     level: 2
-  - name: Bootstrap
-    level: 2
+  - name: Bootstrap 3
+    level: 3
   - name: SASS
     level: 2
   - name: React Redux
@@ -62,7 +62,7 @@ back-end:
   - name: Java
     level: 2
   - name: Python
-  - level: 1
+    level: 1
   - name: SQL
     level: 2
 
@@ -77,8 +77,8 @@ db:
 devops:
   - name: Git
     level: 2
-
-others:
+ 
+ others:
   - name: Web Services
     level: 2
   - name: REST API
@@ -87,6 +87,12 @@ others:
     level: 2
   - name: Express
     level: 2
+  - name: Laravel
+    level: 2
+  - name: UML
+    level: 2
+  - name: Agile
+    level: 1
 
 # Build settings
 
