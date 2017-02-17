@@ -33,17 +33,17 @@ bio: "Back-End Developer, graduando em Ciência da Computação e bom praticante
 #
 # If you don't want one of the sections below, leave the variable without any values
 front-end:
-  - name: HTML 5
+  - name: HTML5
     level: 3
-  - name: CSS 3
-    level: 3
+  - name: CSS3
+    level: 2
   - name: JavaScript
     level: 3
   - name: jQuery
     level: 2
-  - name: Angular 2
-    level: 2
-  - name: Bootstrap 3
+  - name: Angular2.x
+    level: 1
+  - name: Bootstrap 
     level: 3
   - name: SASS
     level: 2
@@ -77,8 +77,10 @@ db:
 devops:
   - name: Git
     level: 2
- 
- others:
+  - name: Docker
+    level: 1
+
+others:
   - name: Web Services
     level: 2
   - name: REST API
@@ -88,10 +90,6 @@ devops:
   - name: Express
     level: 2
   - name: Laravel
-    level: 2
-  - name: UML
-    level: 2
-  - name: Agile
     level: 1
 
 # Build settings
