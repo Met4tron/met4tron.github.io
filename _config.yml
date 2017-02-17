@@ -34,7 +34,7 @@ bio: "Back-End Developer, graduando em Ciência da Computação e bom praticante
 # If you don't want one of the sections below, leave the variable without any values
 front-end:
   - name: HTML 5
-    level: 2
+    level: 3
   - name: CSS 3
     level: 2
   - name: JavaScript
@@ -42,18 +42,14 @@ front-end:
   - name: jQuery
     level: 2
   - name: Angular
-    level: 1
+    level: 2
   - name: Bootstrap
     level: 2
-  - name: LESS
-    level: 1
   - name: SASS
-    level: 1
-  - name: Stylus
+    level: 2
+  - name: React Redux
     level: 1
   - name: Gulp
-    level: 1
-  - name: Grunt
     level: 1
   - name: Bower
     level: 1
@@ -63,39 +59,33 @@ back-end:
     level: 2
   - name: Node.js
     level: 3
-  - name: Ruby
-    level: 2
   - name: Java
     level: 2
+  - name: Python
+  - level: 1
   - name: SQL
     level: 2
+
 db:
   - name: MySQL
     level: 3
-  - name: PostgreSQL
-    level: 2
   - name: MongoDB
-    level: 3
-  - name: SQL Server
-    level: 1
-  - name: Oracle
-    level: 1
-  - name: Firebase
-    level: 1
+    level: 2
   - name: NoSQL
     level: 1
 
 devops:
   - name: Git
     level: 2
+
 others:
   - name: Web Services
     level: 2
-  - name: REST
-    level: 2
-  - name: Ruby on Rails
+  - name: REST API
     level: 2
   - name: MEAN Stack
+    level: 2
+  - name: Express
     level: 2
 
 # Build settings
