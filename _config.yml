@@ -7,18 +7,16 @@ language: "" # language to set into html tag, default is en
 # User settings
 
 author: Yuri Gomes
-author-title: Back-End Developer
+author-title: Fullstack Developer
 gravatar: a817099eb9f85cb6443f50ff27d5d2e9
 email: desenvolvedoryuri@gmail.com
 twitter: haddouken__
 github: Met4tron
-googleplus: +yuurig
 facebook: manigold.yuuri
 linkedin: yuri-gomes-3b5971117
-bio: "Back-End Developer, graduando em Ciência da Computação e bom praticante de esportes nas horas vagas.
-      Iniciei em 2016 os estudos sobre Desenvolvimento Web, porém já tinha conhecimentos em Desktop ( Java c/ Swing).
-      Atualmente estudando tecnologias baseadas em Javascript (NodeJS, MongoDB e Angular 2).
-      Bom entusiasta de novas tecnologias e disposto a trabalhar em equipes grandes ! "
+bio: "Fullstack Developer, graduando em Análise e Desenvolvimento de Sistemas.
+      Atualmente estudando tecnologias baseadas em Javascript (NodeJS, MongoDB, Express, AngularJS e React).
+      Bom entusiasta de novas tecnologias e disposto a trabalhar em grandes equipes! "
 
 # Skills
 #
@@ -40,39 +38,37 @@ front-end:
   - name: JavaScript
     level: 3
   - name: jQuery
-    level: 2
-  - name: Angular2.x
-    level: 1
+    level: 3
   - name: Bootstrap 
     level: 3
   - name: SASS
     level: 2
-  - name: React Redux
+  - name: React
+    level: 3
+  - name: Redux
     level: 1
-  - name: Gulp
-    level: 1
+  - name: Webpack
+    level: 2
   - name: Bower
-    level: 1
+    level: 2
 
 back-end:
   - name: PHP
-    level: 2
-  - name: Node.js
-    level: 3
-  - name: Java
-    level: 2
-  - name: Python
     level: 1
+  - name: Node.js
+    level: 4
+  - name: Java
+    level: 1
+  - name: Python
+    level: 2
   - name: SQL
     level: 2
 
 db:
   - name: MySQL
-    level: 3
-  - name: MongoDB
     level: 2
-  - name: NoSQL
-    level: 1
+  - name: MongoDB
+    level: 3
 
 devops:
   - name: Git
@@ -89,8 +85,8 @@ others:
     level: 2
   - name: Express
     level: 2
-  - name: Laravel
-    level: 1
+  - name: Agile
+    level: 2
 
 # Build settings
 
