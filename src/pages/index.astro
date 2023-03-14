@@ -1,0 +1,27 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+import Footer from '../components/Footer.astro';
+import Skill from '../components/Skill.astro';
+import Header from '../components/Header.astro';
+import Work from '../components/Work.astro';
+import CTA from '../components/CTA.astro';
+
+const since = new Date().getFullYear() - 2017
+
+const backendSkills = ['NodeJS', 'Python', 'Go']
+const frontendSkills = ['React', 'AngularJS', 'Angular']
+const cloudSkills = ['Google Cloud Platform', 'AWS']
+const dbSkills = ['MongoDB', 'PostgreSQL', 'SQL Server']
+---
+
+<Layout title='Yuri Gomes - Software Developer'>
+	<main>
+		<CTA />
+		<Skill />
+		<Work />
+	</main>
+	<Footer />
+</Layout>
+
+<style></style>
