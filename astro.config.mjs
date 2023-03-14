@@ -16,5 +16,4 @@ export default defineConfig({
     robotsTxt()
   ],
   site: "https://met4tron.github.io",
-  base: "/met4tron.github.io",
 });
